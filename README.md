@@ -67,10 +67,14 @@ Well, that's a good question. PowerQuery keeps all the transformation steps so t
       <img src="https://github.com/user-attachments/assets/677337a9-60e0-483f-8367-24ab928216ba" alt="Screenshot 2025-01-21 162147">
     </div>  
 
-## Conclusion  
-Finally, we accomplished two main tasks:  
+## Conclusion
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/18000b70-2ca6-4d1e-8a55-d53597444979" alt="Screenshot 2025-01-21 162147">
+</div>  
+
+Finally, with the 161 rows of the original files existing in the excel file, we accomplished two main tasks:  
 1. Extracted data from the `pdf` file.  
 2. Linked a folder to automate the same steps for future files.  
 
-This ensures we avoid repetitive tasks, especially when dealing with a large number of files and pages.  
+This ensures we avoid repetitive tasks, especially when dealing with a large number of files and pages.
 
