@@ -1,4 +1,4 @@
-![Screenshot 2025-01-21 162147](https://github.com/user-attachments/assets/e4df1048-377b-4e7e-8092-0c868ea1c2c9)# Automated-PDF-Tables-Extraction-with-Excel-PowerQuery
+# Automated-PDF-Tables-Extraction-with-Excel-PowerQuery
 ## Overview
 Excel Power Query offers amazing options that eliminate the need for repetitive tasks, which can be overwhelming when dealing with extensive data transformations. In this example, I will create a folder connected to Excel Power Query. This folder will extract tables containing employee data, transform the data, and automatically apply the same transformation steps each time a new `pdf` is added to the folder.
 ## Extraction steps
